@@ -17,6 +17,7 @@ public class Git_test {
     public static void main(String[] args) {
         // TODO code application logic here new branch
         //asddfe
+        // tu je zmena oproti branchOne
     }
     
 }
